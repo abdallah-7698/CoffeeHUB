@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>589774031912-9ha5p7ks6avhf1bapd3ubuhssfl78jvn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.589774031912-9ha5p7ks6avhf1bapd3ubuhssfl78jvn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDqUF7lGWgZB3p-f7vZ1yLPCj5fs5CNcu8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>589774031912</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Abdallah.WeatherApp.CoffeeHUB</string>
+	<key>PROJECT_ID</key>
+	<string>rxswiftcoffeeapp-48348</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rxswiftcoffeeapp-48348.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:589774031912:ios:181cbb38fa19045dc7391d</string>
+</dict>
+</plist>
